@@ -21,7 +21,7 @@
 <img align='right' src="https://cdn.jsdelivr.net/gh/arcsurge/arcsurge/assets/home-coding.gif" width="150">
 
 - 🌱 I’m currently learning Python, Shell, Java and Typescript.
-- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/arcsurge?tab=repositories)
+- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/arcsurge?tab=repositories).
 - 🤔 I’m looking for help with Design Pattern 😭.
 - 💬 Ask me about anything, I am happy to help.
 - 📚 When I am free, I read fantasy and fiction novels.
