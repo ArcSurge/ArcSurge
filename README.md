@@ -1,64 +1,41 @@
+## 👋 Hello, folks!
+
 <div align="center">
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/arcsurge/arcsurge/assets/developer.svg" height="225px" />
-  </div>
-  <br/>
+
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&vCenter=true&size=26&pause=1000&random=false&width=435&lines=console.log(%22Hello%2C+World!%22)" alt="Typing SVG" />
   </div>
+  
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/arcsurge/arcsurge@output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/arcsurge/arcsurge@output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/arcsurge/arcsurge@output/github-contribution-grid-snake.svg" />
   </picture>
+
 </div>
 
-# 👋 Hello, folks!
+## 💫 About Me
 
-<pre align="center">
-      ___           ___           ___       ___       ___     
-     /\__\         /\  \         /\__\     /\__\     /\  \    
-    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
-   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
- /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
- \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
-      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
-      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-     \/__/         \/__/         \/__/     \/__/     \/__/    
+<img align='right' src="https://cdn.jsdelivr.net/gh/arcsurge/arcsurge/assets/home-coding.gif" width="150">
 
-<strong>Welcome To My GitHub Profile.</strong>
-</pre>
+- 🌱 I’m currently learning Python, Shell, Java and Typescript.
+- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/arcsurge?tab=repositories)
+- 🤔 I’m looking for help with Design Pattern 😭.
+- 💬 Ask me about anything, I am happy to help.
+- 📚 When I am free, I read fantasy and fiction novels.
 
-# ✨ GitHub Stats
+
+## ✨ GitHub Stats
 
 <div align="center">
 
   <!-- GitHub 数据统计 -->
-  <img height="137px" src="https://github-readme-stats-sepia-one-88.vercel.app/api?username=ArcSurge&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent&count_private=true&rank_icon=github" />
-  <img height="137px" src="https://github-readme-stats-sepia-one-88.vercel.app/api/top-langs/?username=ArcSurge&hide_title=true&layout=compact&langs_count=6&theme=transparent" />
+  <img width="43.7%" src="https://github-readme-stats-sepia-one-88.vercel.app/api/top-langs/?username=ArcSurge&hide_title=true&layout=compact&langs_count=6&theme=transparent" />
+  <img width="55.658%" src="https://github-readme-stats-sepia-one-88.vercel.app/api?username=ArcSurge&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent&count_private=true&rank_icon=github" />
 
 </div>
-
-# 💫 About Me
-
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>🌱 I’m currently learning Python, Shell and Java.</li>
-        <li>🤔 I’m looking for help with Design Pattern 😭.</li>
-        <li>💬 Ask me about anything, I am happy to help.</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <img alt="Github" src="https://cdn.jsdelivr.net/gh/arcsurge/arcsurge/assets/git-header.svg" />
-    </td>
-  </tr>
-</table>
 
 <div align="center">
 
