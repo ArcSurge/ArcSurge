@@ -1,4 +1,4 @@
-## 👋 Hello, folks!
+## 👋 Hello folks
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 </div>
 
-## 💫 About Me
+## 💫 About me
 
 <img align='right' src="https://cdn.jsdelivr.net/gh/arcsurge/arcsurge/assets/home-coding.gif" width="150">
 
@@ -27,7 +27,7 @@
 - 📚 When I am free, I read fantasy and fiction novels.
 
 
-## ✨ GitHub Stats
+## ✨ GitHub stats
 
 <div align="center">
 
