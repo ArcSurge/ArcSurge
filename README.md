@@ -27,7 +27,7 @@
 - 📚 When I am free, I read fantasy and fiction novels.
 
 
-## ✨ GitHub stats
+## ✨ GitHub stars
 
 <div align="center">
 
