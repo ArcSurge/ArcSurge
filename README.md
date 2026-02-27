@@ -18,7 +18,7 @@
 
 ## 💫 About me
 
-<img align='right' src="https://cdn.jsdelivr.net/gh/arcsurge/arcsurge/assets/home-coding.gif" width="150">
+<img align='right' src="https://cdn.jsdelivr.net/gh/arcsurge/arcsurge/assets/home-coding.gif" width="135">
 
 - 🌱 I’m currently learning Python, Shell, Java and Typescript.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/arcsurge?tab=repositories).
